@@ -27,8 +27,16 @@ Then run pi normally and select a model under the **claude-vertex** provider via
 
 | Model | ID |
 |---|---|
-| Claude Opus 4.6 | `claude-opus-4-6@default` |
-| Claude Sonnet 4.6 | `claude-sonnet-4-6@default` |
+| Claude Fable 5.1 | `claude-fable-5-1` |
+| Claude Opus 5.5 | `claude-opus-5-5` |
+| Claude Sonnet 5.5 | `claude-sonnet-5-5` |
+| Claude Haiku 5.5 | `claude-haiku-5-5` |
+| Claude Fable 5 | `claude-fable-5` |
+| Claude Opus 5 | `claude-opus-5` |
+| Claude Sonnet 5 | `claude-sonnet-5` |
+| Claude Opus 4.7 | `claude-opus-4-7` |
+| Claude Opus 4.6 | `claude-opus-4-6` |
+| Claude Sonnet 4.6 | `claude-sonnet-4-6` |
 | Claude Haiku 4.5 | `claude-haiku-4-5@20251001` |
 
 All models support extended thinking / reasoning.
